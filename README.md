@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iilhamriz
 - 👀 I’m interested in front end website developer
-- 🌱 I’m currently learning Html & CSS
 - 💞️ I’m looking to collaborate 
 - 📫 Follow my instagram @iilhamriz
 
