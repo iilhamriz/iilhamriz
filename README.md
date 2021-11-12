@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iilhamriz
-- 👀 I’m interested in front end website developer
+- 👀 I’m interested in frontend developer
 - 💞️ I’m looking to collaborate 
 - 📫 Follow my instagram @iilhamriz
 
