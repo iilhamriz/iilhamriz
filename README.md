@@ -4,7 +4,7 @@ A Full Stack Web developer🎯 and designer🌈 from Indonesia.
 - 👨‍💻 Full Stack MERN Developer at Whitebox
 - 🎥 Learn Web Development from me [@belajarcoding](https://www.youtube.com/belajarcoding) <!-- - 🌱 Currently learning Svelte. -->
 - 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [Instagram](https://instagram.com/belajarcoding) - [@iilhamriz](https://instagram.com/iilhamriz)
+- 📫 How to reach me: [ilham@pla-to.com](https://mail.hostinger.com) - [@iilhamriz](https://instagram.com/iilhamriz)
 
 **Languages:**  
 
