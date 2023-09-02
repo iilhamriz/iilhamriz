@@ -1,5 +1,5 @@
 ### Hi there, I'm Ilham👦,
-A Full Stack Web developer🎯 and designer🌈 from Indonesia.
+A Full Stack Web developer🎯 and designer from Indonesia.
 
 - 👨‍💻 Full Stack MERN Developer at Whitebox
 - 🎥 Learn Web Development from me [@belajarcoding](https://www.youtube.com/belajarcoding) <!-- - 🌱 Currently learning Svelte. -->
