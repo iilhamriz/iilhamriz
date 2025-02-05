@@ -3,7 +3,9 @@ I’m a Full Stack Web Developer and Blockchain Developer from Indonesia.
 I specialize in building solutions using Node.js, React.js, Next.js, Go, HTML, CSS, JavaScript, and TypeScript.
 
 What I’m Working On
+
 Full Stack Development: Crafting end-to-end applications with a focus on performance and scalability.
+
 Blockchain Projects:
 Deployed Ethereum, Base, and Sonic nodes.
 Built a sniper bot capable of entering at block 0.
