@@ -1,10 +1,14 @@
 ### Hi there, I'm Ilham👦,
-A Full Stack Web developer🎯 and designer from Indonesia.
+I’m a Full Stack Web Developer and Blockchain Developer from Indonesia.
+I specialize in building solutions using Node.js, React.js, Next.js, Go, HTML, CSS, JavaScript, and TypeScript.
 
-- 👨‍💻 Full Stack MERN Developer at Whitebox
-- 🎥 Learn Web Development from me [@belajarcoding](https://www.youtube.com/belajarcoding) <!-- - 🌱 Currently learning Svelte. -->
-- 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [ilham@pla-to.com](https://mail.hostinger.com) - [@iilhamriz](https://instagram.com/iilhamriz)
+What I’m Working On
+Full Stack Development: Crafting end-to-end applications with a focus on performance and scalability.
+Blockchain Projects:
+Deployed Ethereum, Base, and Sonic nodes.
+Built a sniper bot capable of entering at block 0.
+Created a tool to fetch ABIs even from unverified contracts.
+Deployed smart contracts (ERC-20 tokens, wrapped routers) using Solidity.
 
 **Languages:**  
 
